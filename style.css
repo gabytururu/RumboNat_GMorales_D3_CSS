@@ -1,0 +1,29 @@
+
+h1 {
+    color: #3c0cebc9;
+    
+}
+
+h3 {
+    color:rgba(33, 22, 75, 0.788)
+}
+.menu {
+    background-color: rgb(133, 212, 248);
+}
+
+#idsection{
+    color:slateblue;
+}
+
+.parrafoFinal {
+    background-color: rgb(53, 235, 235);
+}
+
+section ol li{
+    color:rgb(205, 43, 226);   
+}
+
+.tabla {
+    color: green;
+    background-color:rgb(248, 231, 133)
+}
